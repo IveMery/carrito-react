@@ -1,0 +1,32 @@
+{
+    "listaProducto": [
+        {
+            "title": "CONSOLA NINTENDO SWITCH NEON COLOR NEW MODEL",
+            "img": "https://www.entrenamiento.com/wp-content/uploads/2017/08/nintento-switch-720x404.jpg",
+            "description": "La consola Nintendo Switch está diseñada para acompañarte donde quiera que vayas, transformándose de consola para el hogar a consola portátil en un instante. Así tendrás más ocasiones para disfrutar de tus juegos favoritos como más te guste.",
+            "price": "329.990",
+            "stock": "4"
+        },
+        {
+            "title": "Iphone 12 Pro Max 128GB",
+            "img": "https://www.muycomputer.com/wp-content/uploads/2020/06/iPhone-12-Dise%C3%B1o-Tama%C3%B1o-Modelos-e1592232759865.jpg",
+            "description": "El Chip A14 Bionic, el más rápido en un smartphone. Y un sistema de cámaras Pro para tomar fotos increíbles con poca luz, que alcanza su máxima expresión en el iPhone 12 Pro Max",
+            "price": "900.000",
+            "stock": "5"
+        },
+        {
+            "title": "Auriculares inalámbricos On-Ear Beats",
+            "img": "https://falabella.scene7.com/is/image/Falabella/14433616_1?wid=1500&hei=1500&qlt=70",
+            " description": "High-performance wireless Bluetooth headphones in club navy",
+            "price": "195.000",
+            "stock": "2"
+        },
+        {
+            "title": "CONSOLA PLAYSTATION 5 (PS5) - VERSIÓN CON LECTOR - SNIPER",
+            "img": "https://i.blogs.es/8a371e/captura-de-pantalla-2020-11-06-a-las-3.35.58/original.png",
+            "description": "Experimenta una carga a velocidad sorprendente con una SSD de velocidad ultrarrápida, una inmersión más profunda con soporte para respuesta háptica, gatillos adaptativos y audio 3D, además de una generación completamente nueva de juegos de PlayStation Velocidad sorprendente",
+            "price": "899.990",
+            "stock": "7"
+        }
+    ]
+}
